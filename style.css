@@ -65,6 +65,9 @@ footer {
       rgba(39, 32, 68, 0.9)
     ),
     url("/images/nature.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  list-style: none;
 }
 
 @media (max-width: 900px) {
